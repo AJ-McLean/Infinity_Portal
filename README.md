@@ -505,5 +505,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Issue Tracker: [GitHub Issues](https://github.com/The-Swarm-Corporation/infinity_portal/issues)
 - Discord: [Join our community](https://swarms.ai)
 
----
-Created with ❤️ by [The Swarm Corporation](https://github.com/The-Swarm-Corporation)
