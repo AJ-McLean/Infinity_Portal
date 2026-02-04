@@ -1,6 +1,6 @@
 # Social Intelligence for Stonks
 
-Historically, there have been two types of Financial Analyis; Fundamental Analysis - that looks at assets, liabilities, and earnings, the cornerstone of Value Investing, and Technical Analysis - that looks to at past perfomance to try and and predict future price movements, typically used in much shorter term trading.
+Historically, there have been two types of Financial Analyis; _Fundamental Analysis_ - that looks at assets, liabilities, and earnings - the cornerstone of Value Investing, and _Technical Analysis_ - that looks to at past perfomance to try and and predict future price movements - typically used in much shorter term trading.
 
 Narative Alpha presents a third kind of analysis "Narrative Analyis" that attempts to show users the "story behind their stocks" adding an element of explainablity and attribution to otherwise opaque and hard to contextualise candlle stick charts.
 
