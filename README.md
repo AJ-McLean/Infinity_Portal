@@ -1,4 +1,4 @@
-# Social Intelligence for Stocks
+# Social Intelligence for Stonks
 
 Historically, there have been two types of Financial Analyis; Fundamental Analysis - that looks at assets, liabilities, and earnings, the cornerstone of Value Investing, and Technical Analysis - that looks to at past perfomance to try and and predict future price movements, typically used in much shorter term trading.
 
