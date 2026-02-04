@@ -7,7 +7,7 @@ Narative Alpha presents a third kind of analysis _"Narrative Analyis"_ that atte
 Narrative Alpha uses State of The Art Topic Modeling alongside an Agentic Workflows to provide users with a clear understanding of price movements along with an investment thesis.
 
 _"To understand the economy then is to comprehend how it is driven by the animal spirits. Just as Adam Smith’s invisible hand is the keynote of classical economics, Keynes’ animal spirits are the keynote to a different view of the economy—a view that explains the underlying instabilities of capitalism."_
-- George Akerlof and Robert Shiller, _Animal Spirits: How Human Psychology Drives the Economy, and Why It Matters for Global Capitalism,_ 2009.
+George Akerlof and Robert Shiller, _Animal Spirits: How Human Psychology Drives the Economy, and Why It Matters for Global Capitalism,_ 2009.
 
 ### Key Principles
 
