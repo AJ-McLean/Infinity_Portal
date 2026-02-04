@@ -1,14 +1,14 @@
-# Social Signal Intelligence Platform for Stocks
+# Social Intelligence for Stocks
 
-We have built a trust-first web application designed for wealth management and financial advisory firms to analyze stock movements through social media topic analysis. It is built with transparency and auditability at its core.
+Historically, there have been two types of Financial Analyis; Fundamental Analysis - that looks at assets, liabilities, and earnings, the cornerstone of Value Investing, and Technical Analysis - that looks to at past perfomance to try and and predict future price movements, typically used in much shorter term trading.
 
-## Overview
+Narative Alpha presents a third kind of analysis "Narrative Analyis" that attempts to show users the "story behind their stocks" adding an element of explainablity and attribution to otherwise opaque and hard to contextualise candlle stick charts.
 
-Our platform helps wealth managers and financial advisors understand portfolio movements by analyzing **static social media datasets**. Unlike real-time sentiment tools, this application prioritizes evidence-based narratives and  source attribution which is essential for client communications and regulatory reviews.
+Narrative Alpha uses State of The Art Topic Modeling alongside an Agentic Workflows to provide users with a clear understanding of price movements along with an investment thesis.
 
 ### Key Principles
 
-- **Evidence-First**: Every narrative links directly to source posts with post IDs
+- **Evidence-First**: Every narrative summary is attributable directly to source posts and IDs
 - **Balanced Analysis**: Counter-narratives are surfaced alongside supporting evidence
 - **Audit Trail**: Full logging of user edits and exports
 - **Trading Signals**: This tool provides context and possible buy/sell recommendations
