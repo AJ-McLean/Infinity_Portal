@@ -8,6 +8,8 @@ _"To understand the economy then is to comprehend how it is driven by the animal
 
 George Akerlof and Robert Shiller, Animal Spirits: How Human Psychology Drives the Economy, and Why It Matters for Global Capitalism, 2009.
 
+Demo: https://devpost.com/software/narrativealpha-tape0s
+
 ### Key Principles
 
 - **Evidence-First**: Every narrative summary is attributable directly to source posts and IDs
