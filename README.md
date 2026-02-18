@@ -15,15 +15,13 @@ Demo: https://devpost.com/software/narrativealpha-tape0s
 - **Evidence-First**: Every narrative summary is attributable directly to source posts and IDs
 - **Balanced Analysis**: Counter-narratives are surfaced alongside supporting evidence
 - **Audit Trail**: Full logging of user edits and exports
-- **Trading Signals**: This tool provides context and possible buy/sell recommendations
+- **Trading Signals**: This tool provides context along with buy/sell recommendations
 - **Compliance-Ready**: Export client-safe memos with complete source attribution
 
 ## Use Cases
 
 - Explain unusual price movements to clients with documented social context
-- Prepare compliance documentation for investment decisions
 - Research historical market events and their social media footprint
-- Train junior advisors on narrative construction and source evaluation
 
 ## Tech Stack
 
@@ -50,8 +48,6 @@ Demo: https://devpost.com/software/narrativealpha-tape0s
 ```
 
 ## Data Model
-
-The static dataset (`/data/sample.json`) contains:
 
 - **instruments**: Stock ticker symbols and company names
 - **price_series**: Historical price and volume data
@@ -153,21 +149,9 @@ Each topic includes:
 4. Edit and refine narrative for client presentation
 5. Export compliance-ready memo with full audit trail
 
-## Design Philosophy
-
-This tool is **intentionally limited**:
-- No live API calls or web scraping
-- No algorithmic trading signals
-- No predictive models or recommendations
-But:
-- Static datasets for reproducibility
-- Human-in-the-loop narrative construction
-- Full transparency on data sources
-
 ## Limitations & Disclaimers
 
 - **Not Financial Advice**: This tool provides context, not investment recommendations.
-- **Static Data Only**: No real-time feeds; datasets must be manually updated
 - **Research Purposes**: Designed for internal analysis and client communication
 - **No Guarantees**: Social sentiment does not predict future performance
 
